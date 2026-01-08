@@ -37,7 +37,7 @@ export const Contact: React.FC<ContactProps> = ({ id }) => {
           className="space-y-8"
         >
           <div>
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Get In <span className="text-purple-400">Touch</span></h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Contato<span className="text-purple-400"></span></h2>
             <p className="text-gray-400">
               Estou sempre aberta para discutir novos projetos, ideias criativas ou oportunidades de fazer parte da sua visão.
             </p>
@@ -60,7 +60,7 @@ export const Contact: React.FC<ContactProps> = ({ id }) => {
                 <Phone size={24} />
               </div>
               <div>
-                <h4 className="font-semibold text-lg">Contact/Whatsapp/Telegram: </h4>
+                <h4 className="font-semibold text-lg">Contato/Whatsapp/Telegram: </h4>
                 <p className="text-gray-400">(83) 98906-4080</p>
               </div>
             </div>
@@ -70,7 +70,7 @@ export const Contact: React.FC<ContactProps> = ({ id }) => {
                 <MapPin size={24} />
               </div>
               <div>
-                <h4 className="font-semibold text-lg">Location: </h4>
+                <h4 className="font-semibold text-lg">Local: </h4>
                 <p className="text-gray-400">João Pessoa, PB - Brazil</p>
               </div>
             </div>
