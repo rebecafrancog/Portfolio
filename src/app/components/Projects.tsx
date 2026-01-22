@@ -12,7 +12,7 @@ export const Projects: React.FC<ProjectsProps> = ({ id }) => {
       title: "Meu Treino Ideal",
       description: "Plataforma desenvolvida para construir planos de treino personalizados.",
       tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      image: "https://media.licdn.com/dms/image/v2/D4D2DAQHNE05i7KWDyQ/profile-treasury-image-shrink_800_800/B4DZrGNRxoGgAY-/0/1764261961774?e=1768492800&v=beta&t=c_zFP2qZhg2xbrtJQbGdv0IPUpUzAg-EISfgXqeLBww",
+      image: "https://media.licdn.com/dms/image/v2/D4D2DAQHNE05i7KWDyQ/profile-treasury-image-shrink_800_800/B4DZrGNRxoGgAY-/0/1764261961774?e=1769698800&v=beta&t=uG_zy6J7Y2YSoqwpTUqnMfli9wXl8cqgUoCSE4TOK-0",
       demoLink: "https://meu-treino-ideal-chi.vercel.app/",
       codeLink: "https://github.com/rebecafrancog/meu_treino_ideal.git"
     },
